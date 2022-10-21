@@ -1,0 +1,16 @@
+{
+"name": "ufagod",
+"theme": "ufagod",
+"version": "4.2.7",
+"description": "ufagod ทางเข้าหลักเว็บไซต์บาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
+"keywords": [
+"ufagod",
+"ufagod เครดิตฟรี",
+"ufagod ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ufagod",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
